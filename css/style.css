@@ -773,6 +773,11 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
   /* box-sizing: border-box;*/
   padding-bottom: 40px;
 }
+.eng .power_left{
+  background: url(../images/power_img2_eng.png) no-repeat center bottom; 
+
+}
+
 #lang_power_content01{
  color: #25A8E0;
   font-weight: bolder;
@@ -844,6 +849,11 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
     min-height: 750px;
     background-color:#E3E1E1;
   }
+
+  .power_left{
+    background: url(../images/power_img2_min_eng.png) no-repeat center bottom; 
+  }
+
   .eng.power_left{
     background: url(../images/power_img2_min_eng.png) no-repeat center bottom;     
     min-height: 750px;
