@@ -128,7 +128,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_device_content').innerHTML = arr[lang_index].lang_device_content;
 
   document.getElementById('lang_buy_title').innerHTML = arr[lang_index].lang_buy_title;
-  document.getElementById('lang_buy_btn').innerHTML = arr[lang_index].lang_buy_btn;
+  document.getElementById('lang_shop').innerHTML = arr[lang_index].lang_shop;
 
   document.getElementById('lang_bl_title').innerHTML = arr[lang_index].lang_bl_title;
   document.getElementById('lang_bl_text').innerHTML = arr[lang_index].lang_bl_text;
