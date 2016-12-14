@@ -120,10 +120,15 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_feature_cont04_1').innerHTML = arr[lang_index].lang_feature_cont04_1;
   document.getElementById('lang_feature_cont05').innerHTML = arr[lang_index].lang_feature_cont05;
   document.getElementById('lang_feature_cont06').innerHTML = arr[lang_index].lang_feature_cont06;
+  document.getElementById('lang_power_title').innerHTML = arr[lang_index].lang_power_title;
   document.getElementById('lang_power_content01').innerHTML = arr[lang_index].lang_power_content01;
   document.getElementById('lang_power_ps01').innerHTML = arr[lang_index].lang_power_ps01; 
   // document.getElementById('lang_power_content03').innerHTML = arr[lang_index].lang_power_content03;
   document.getElementById('lang_device').innerHTML = arr[lang_index].lang_device;
+  document.getElementById('lang_device_content').innerHTML = arr[lang_index].lang_device_content;
+
+  document.getElementById('lang_buy_title').innerHTML = arr[lang_index].lang_buy_title;
+  document.getElementById('lang_buy_btn').innerHTML = arr[lang_index].lang_buy_btn;
 
   document.getElementById('lang_bl_title').innerHTML = arr[lang_index].lang_bl_title;
   document.getElementById('lang_bl_text').innerHTML = arr[lang_index].lang_bl_text;
