@@ -775,7 +775,7 @@ tbody{font-family:Helvetica, sans-serif, Arial, 'LiHei Pro', '微軟正黑體','
 }
 .eng .power_left{
   background: url(../images/power_img2_eng.png) no-repeat center bottom; 
-
+  background-color: #E3E1E1;
 }
 
 #lang_power_content01{
