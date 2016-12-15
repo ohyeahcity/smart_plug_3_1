@@ -67,7 +67,7 @@
       "lang_feature_cont05": "Monitor energy usage",
       "lang_feature_cont06": "Tracking power consumption",
       "lang_power_title":"Say goodbye to outragerous bills",
-      "lang_power_content01": "Say goodbye to outragerous bills",
+      "lang_power_content01": "Appliances Protector",
       "lang_power_ps01":"Appliances Protector.Overheating power sockets will be turned off for safety",
      
       "lang_device": "Electricity Detective",
