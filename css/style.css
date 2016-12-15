@@ -247,6 +247,9 @@ margin: 0 auto;
   letter-spacing: 1px;
   font-size: 30px;
 }
+.FEATURE_icon{
+  min-height: 200px;
+}
 
 .FEATURE p{
   font-size: 20px;
