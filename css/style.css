@@ -229,7 +229,6 @@ margin: 0 auto;
   display: block;
   margin:0 auto;
   /*background-color: grey;*/
-  margin-top:15px; 
   margin-bottom: 10px;
   /*margin-top: 40px;*/
 }
@@ -250,7 +249,7 @@ margin: 0 auto;
 }
 
 .FEATURE p{
-  font-size: 18px;
+  font-size: 20px;
   /*font-weight:bold;*/
   text-align: center;
   color: white;
